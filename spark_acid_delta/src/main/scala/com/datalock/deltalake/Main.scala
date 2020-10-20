@@ -11,6 +11,8 @@ object Main{
         val spark: SparkSession = SparkSession
           .builder()
           .appName("spark_acid_delta")
+          .config("spark.sql.extensions", "io.delta.sql.DeltaSparkSessionExtension")
+          .config("spark.sql.catalog.spark_catalog", "org.apache.spark.sql.delta.catalog.DeltaCatalog")
           .getOrCreate()
 
         // --- écriture et lecture d'un dataframe au format delta --- //
