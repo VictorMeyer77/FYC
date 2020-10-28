@@ -61,5 +61,9 @@ object Main{
 
         println(df5.count())
 
+        // --- supprime les fichiers déréférencés --- //
+
+        table.vacuum()
+
     }
 }
