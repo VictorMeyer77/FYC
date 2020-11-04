@@ -66,7 +66,6 @@ object Main{
                     } catch {
                         case e: Exception => println(e)
                     }
-
                 }
             }
             case "APPEND" => {
