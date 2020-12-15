@@ -7,13 +7,6 @@
     "slug":"ain"
   },
   {
-    "id":2,
-    "region_code":"32",
-    "code":"02",
-    "name":"Aisne",
-    "slug":"aisne"
-  },
-  {
     "id":3,
     "region_code":"84",
     "code":"03",
@@ -413,32 +406,11 @@
     "slug":"nievre"
   },
   {
-    "id":60,
-    "region_code":"32",
-    "code":"59",
-    "name":"Nord",
-    "slug":"nord"
-  },
-  {
-    "id":61,
-    "region_code":"32",
-    "code":"60",
-    "name":"Oise",
-    "slug":"oise"
-  },
-  {
     "id":62,
     "region_code":"28",
     "code":"61",
     "name":"Orne",
     "slug":"orne"
-  },
-  {
-    "id":63,
-    "region_code":"32",
-    "code":"62",
-    "name":"Pas-de-Calais",
-    "slug":"pas de calais"
   },
   {
     "id":64,
@@ -558,13 +530,6 @@
     "code":"79",
     "name":"Deux-Sèvres",
     "slug":"deux sevres"
-  },
-  {
-    "id":81,
-    "region_code":"32",
-    "code":"80",
-    "name":"Somme",
-    "slug":"somme"
   },
   {
     "id":82,

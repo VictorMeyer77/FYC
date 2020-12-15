@@ -7,6 +7,13 @@
     "slug":"ain"
   },
   {
+    "id":2,
+    "region_code":"32",
+    "code":"02",
+    "name":"Aisne",
+    "slug":"aisne"
+  },
+  {
     "id":3,
     "region_code":"84",
     "code":"03",
@@ -210,6 +217,20 @@
     "slug":"gard"
   },
   {
+    "id":32,
+    "region_code":"76",
+    "code":"31",
+    "name":"Haute-Garonne",
+    "slug":"haute garonne"
+  },
+  {
+    "id":33,
+    "region_code":"76",
+    "code":"32",
+    "name":"Gers",
+    "slug":"gers"
+  },
+  {
     "id":34,
     "region_code":"75",
     "code":"33",
@@ -392,11 +413,32 @@
     "slug":"nievre"
   },
   {
+    "id":60,
+    "region_code":"32",
+    "code":"59",
+    "name":"Nord",
+    "slug":"nord"
+  },
+  {
+    "id":61,
+    "region_code":"32",
+    "code":"60",
+    "name":"Oise",
+    "slug":"oise"
+  },
+  {
     "id":62,
     "region_code":"28",
     "code":"61",
     "name":"Orne",
     "slug":"orne"
+  },
+  {
+    "id":63,
+    "region_code":"32",
+    "code":"62",
+    "name":"Pas-de-Calais",
+    "slug":"pas de calais"
   },
   {
     "id":64,
@@ -516,6 +558,13 @@
     "code":"79",
     "name":"Deux-Sèvres",
     "slug":"deux sevres"
+  },
+  {
+    "id":81,
+    "region_code":"32",
+    "code":"80",
+    "name":"Somme",
+    "slug":"somme"
   },
   {
     "id":82,
@@ -660,56 +709,56 @@
   {
     "id":102,
     "region_code":"COM",
-    "code":"0000975",
+    "code":"000975",
     "name":"Saint-Pierre-et-Miquelon",
     "slug":"saint pierre et miquelon"
   },
   {
     "id":103,
     "region_code":"COM",
-    "code":"0000977",
+    "code":"000977",
     "name":"Saint-Barthélemy",
     "slug":"saint barthelemy"
   },
   {
     "id":104,
     "region_code":"COM",
-    "code":"0000978",
+    "code":"000978",
     "name":"Saint-Martin",
     "slug":"saint martin"
   },
   {
     "id":105,
     "region_code":"COM",
-    "code":"0000984",
+    "code":"000984",
     "name":"Terres australes et antarctiques françaises",
     "slug":"terres australes et antarctiques francaises"
   },
   {
     "id":106,
     "region_code":"COM",
-    "code":"0000986",
+    "code":"000986",
     "name":"Wallis et Futuna",
     "slug":"wallis et futuna"
   },
   {
     "id":107,
     "region_code":"COM",
-    "code":"0000987",
+    "code":"000987",
     "name":"Polynésie française",
     "slug":"polynesie francaise"
   },
   {
     "id":108,
     "region_code":"COM",
-    "code":"0000988",
+    "code":"000988",
     "name":"Nouvelle-Calédonie",
     "slug":"nouvelle caledonie"
   },
   {
     "id":109,
     "region_code":"COM",
-    "code":"0000989",
+    "code":"000989",
     "name":"île de Clipperton",
     "slug":"ile de clipperton"
   }
